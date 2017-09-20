@@ -11,5 +11,5 @@ addpath 'Img/';
 img_chess=imread('Img/Selección_001.png'); % leemos la imagen 
 imshow(img_chess); %mostramos la imagen :P 
 
-
+%
 
